@@ -94,7 +94,7 @@
     </div>
     <br />
     <div id="authorbox" class="clear fl" style="float: inherit;">
-        <div class="thedate"><div class="month">Edad</div><div class="day">19</div><div class="year">a&ntilde;os</div></div>
+        <div class="thedate"><div class="month">Edad</div><div class="day">24</div><div class="year">a&ntilde;os</div></div>
         <img alt='' src='images/carlos.jpg' class='avatar avatar-80 photo' height='130' width='80' />            
         <div class="authortext fl" >
         	<? echo $translator->getLocalisedText("aboutAutor");?>
