@@ -35,10 +35,16 @@ class AccesoDatos{
 	
 	//http://cdominguez.tk/
 	//var $db_host="mysql.binhoster.com";
+	//var $db_host="localhost";
+	//var $db_name= "iglesij1_portfolio";
+	//var $username="iglesij1_user";
+	//var $password="000797";
+	
+	//http://carlosprojects.com
 	var $db_host="localhost";
-	var $db_name= "iglesij1_portfolio";
-	var $username="iglesij1_user";
-	var $password="000797";
+	var $db_name= "u357647875_bd";
+	var $username="u357647875_user";
+	var $password="D1CaDV2ADe";
 	
 	/*
 	Entrada:			Ninguna
