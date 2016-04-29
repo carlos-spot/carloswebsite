@@ -1,0 +1,269 @@
+[20-Nov-2011 06:06:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 06:06:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 06:06:22] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 06:06:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 06:06:22] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 06:06:22] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 06:06:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 06:06:22] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 06:06:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 06:06:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 06:06:22] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 06:06:22] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 06:06:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 06:06:22] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 07:05:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 07:05:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 07:05:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 07:05:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 07:05:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 07:05:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 07:05:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 07:05:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 07:05:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 07:05:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 07:05:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 07:05:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 09:05:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 09:05:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 09:05:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 09:05:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 09:05:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 09:05:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 09:05:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 09:05:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 15:44:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 15:44:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 15:44:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 15:44:06] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 15:44:06] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 15:44:06] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 15:44:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 15:44:06] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 15:44:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 15:44:06] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 15:44:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 15:44:06] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 15:44:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 15:44:06] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[20-Nov-2011 16:05:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User u110257736_user already has more than 'max_user_connections' active connections in /home/u110257736/public_html/AccesoDatos.php on line 66
+[20-Nov-2011 16:05:05] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[21-Sep-2012 10:41:10] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on 'mysql.binhoster.com' (4) in /home/u110257736/public_html/AccesoDatos.php on line 66
+[21-Sep-2012 10:41:10] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[21-Sep-2012 10:42:00] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on 'mysql.binhoster.com' (4) in /home/u110257736/public_html/AccesoDatos.php on line 66
+[21-Sep-2012 10:42:00] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[21-Sep-2012 10:42:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on 'mysql.binhoster.com' (4) in /home/u110257736/public_html/AccesoDatos.php on line 66
+[21-Sep-2012 10:42:47] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[21-Sep-2012 10:42:57] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on 'mysql.binhoster.com' (4) in /home/u110257736/public_html/AccesoDatos.php on line 66
+[21-Sep-2012 10:42:57] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/u110257736/public_html/AccesoDatos.php on line 67
+[06-Apr-2013 12:30:31 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[06-Apr-2013 12:30:31 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[06-Apr-2013 12:30:31 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[06-Apr-2013 12:30:49 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[06-Apr-2013 12:30:49 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[19-Apr-2013 15:27:28 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[19-Apr-2013 15:27:28 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[19-Apr-2013 15:27:28 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[19-Apr-2013 19:03:37 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[19-Apr-2013 19:03:37 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[19-Apr-2013 19:03:37 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[19-Apr-2013 19:03:37 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[19-Apr-2013 19:24:16 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[19-Apr-2013 19:24:16 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[19-Apr-2013 19:24:16 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[19-Apr-2013 19:24:16 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[19-Apr-2013 19:57:56 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[19-Apr-2013 19:57:56 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[19-Apr-2013 19:57:56 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[19-Apr-2013 19:57:56 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[19-Apr-2013 20:07:48 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[19-Apr-2013 20:07:48 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[19-Apr-2013 20:07:48 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[19-Apr-2013 20:07:48 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[19-Apr-2013 20:08:20 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[19-Apr-2013 20:08:20 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[19-Apr-2013 20:08:20 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[19-Apr-2013 20:08:20 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[20-Apr-2013 00:39:50 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[20-Apr-2013 00:39:50 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[20-Apr-2013 00:39:50 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[20-Apr-2013 00:39:50 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[21-Apr-2013 12:27:10 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[21-Apr-2013 12:27:10 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[21-Apr-2013 12:27:10 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[21-Apr-2013 12:27:10 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[21-Apr-2013 14:21:52 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[21-Apr-2013 14:21:52 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[21-Apr-2013 14:21:52 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[21-Apr-2013 14:21:52 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[21-Apr-2013 14:51:38 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[21-Apr-2013 14:51:38 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[21-Apr-2013 14:51:38 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[21-Apr-2013 14:51:38 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[21-Apr-2013 15:13:23 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[21-Apr-2013 15:13:23 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[21-Apr-2013 15:13:23 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[21-Apr-2013 15:13:23 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[21-Apr-2013 17:18:51 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[21-Apr-2013 17:18:51 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[21-Apr-2013 17:18:51 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[21-Apr-2013 17:18:51 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[21-Apr-2013 18:49:23 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[21-Apr-2013 18:49:23 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[21-Apr-2013 18:49:23 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[21-Apr-2013 18:49:23 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[22-Apr-2013 02:58:43 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[22-Apr-2013 02:58:43 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[22-Apr-2013 02:58:43 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[22-Apr-2013 02:58:43 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[22-Apr-2013 03:14:43 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[22-Apr-2013 03:14:43 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[22-Apr-2013 03:14:43 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[22-Apr-2013 03:14:43 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[22-Apr-2013 03:40:45 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[22-Apr-2013 03:40:45 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[22-Apr-2013 03:40:45 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[22-Apr-2013 03:40:45 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[22-Apr-2013 11:15:06 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[22-Apr-2013 11:15:06 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[22-Apr-2013 11:15:06 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[22-Apr-2013 11:17:03 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[22-Apr-2013 11:17:03 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[22-Apr-2013 11:17:05 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[22-Apr-2013 11:17:05 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[22-Apr-2013 11:17:07 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[22-Apr-2013 11:17:07 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 01:46:16 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[26-Apr-2013 01:46:16 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[26-Apr-2013 01:46:16 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 03:16:59 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[26-Apr-2013 03:16:59 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[26-Apr-2013 03:16:59 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 07:09:17 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[26-Apr-2013 07:09:17 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[26-Apr-2013 07:09:17 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 08:34:00 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[26-Apr-2013 08:34:00 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[26-Apr-2013 08:34:00 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 13:01:37 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[26-Apr-2013 13:01:37 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[26-Apr-2013 13:01:37 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[26-Apr-2013 13:11:37 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[26-Apr-2013 13:11:37 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[26-Apr-2013 13:11:37 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 13:39:51 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[26-Apr-2013 13:39:51 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[26-Apr-2013 13:39:51 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 16:54:06 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[26-Apr-2013 16:54:06 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[26-Apr-2013 16:54:06 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 18:52:15 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[26-Apr-2013 18:52:15 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[26-Apr-2013 18:52:15 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 21:19:50 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[26-Apr-2013 21:19:50 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[26-Apr-2013 21:19:50 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 21:21:50 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[26-Apr-2013 21:21:50 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 21:21:58 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[26-Apr-2013 21:21:58 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 21:22:19 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[26-Apr-2013 21:22:19 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 21:23:16 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[26-Apr-2013 21:23:16 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 22:17:08 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[26-Apr-2013 22:17:08 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 22:17:14 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[26-Apr-2013 22:17:14 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 22:19:13 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[26-Apr-2013 22:19:13 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 22:19:20 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[26-Apr-2013 22:19:20 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 22:19:27 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[26-Apr-2013 22:19:27 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[26-Apr-2013 22:19:32 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[27-Apr-2013 00:18:45 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[27-Apr-2013 00:18:45 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[27-Apr-2013 00:18:45 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[27-Apr-2013 00:58:00 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[27-Apr-2013 00:58:00 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[27-Apr-2013 00:58:00 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[27-Apr-2013 06:46:10 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[27-Apr-2013 06:46:10 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[27-Apr-2013 06:46:10 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[27-Apr-2013 07:26:13 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[27-Apr-2013 07:26:13 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[27-Apr-2013 07:26:13 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[27-Apr-2013 07:52:06 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[27-Apr-2013 07:52:06 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[27-Apr-2013 07:52:06 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[27-Apr-2013 08:04:06 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[27-Apr-2013 08:04:06 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[27-Apr-2013 08:04:06 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[27-Apr-2013 09:08:20 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[27-Apr-2013 09:08:20 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[27-Apr-2013 09:08:20 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[28-Apr-2013 13:52:00 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[28-Apr-2013 13:52:00 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[28-Apr-2013 13:52:00 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
+[30-Apr-2013 05:12:40 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[30-Apr-2013 05:12:40 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[30-Apr-2013 05:12:40 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[30-Apr-2013 05:14:21 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[30-Apr-2013 05:14:21 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[30-Apr-2013 05:14:21 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[30-Apr-2013 05:14:21 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[30-Apr-2013 10:19:56 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[30-Apr-2013 10:19:56 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[30-Apr-2013 10:19:56 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[30-Apr-2013 13:01:06 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[30-Apr-2013 13:01:06 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[30-Apr-2013 13:01:06 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[30-Apr-2013 16:24:12 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[30-Apr-2013 16:24:12 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[30-Apr-2013 16:24:12 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[30-Apr-2013 16:56:05 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[30-Apr-2013 16:56:05 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[30-Apr-2013 16:56:05 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[30-Apr-2013 18:08:02 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[30-Apr-2013 18:08:02 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[30-Apr-2013 18:08:02 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[30-Apr-2013 18:53:10 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[30-Apr-2013 18:53:10 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[30-Apr-2013 18:53:10 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[30-Apr-2013 19:21:12 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[30-Apr-2013 19:21:12 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[30-Apr-2013 19:21:12 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[30-Apr-2013 20:08:57 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[30-Apr-2013 20:08:57 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[30-Apr-2013 20:08:57 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[01-May-2013 03:27:25 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[01-May-2013 03:27:25 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[01-May-2013 03:27:25 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[01-May-2013 08:21:35 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[01-May-2013 08:21:35 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[01-May-2013 08:21:35 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[01-May-2013 12:19:59 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[01-May-2013 12:20:00 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[01-May-2013 12:20:00 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[01-May-2013 12:35:13 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[01-May-2013 12:35:13 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[01-May-2013 12:35:13 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[01-May-2013 15:08:33 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[01-May-2013 15:08:33 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[01-May-2013 15:08:33 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[03-May-2013 06:38:18 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[03-May-2013 06:38:18 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[03-May-2013 06:38:18 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[03-May-2013 06:38:18 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[03-May-2013 10:28:53 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[03-May-2013 10:28:53 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[03-May-2013 10:28:53 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[03-May-2013 10:28:53 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[03-May-2013 12:04:11 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[03-May-2013 12:04:11 America/Denver] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 147
+[03-May-2013 12:04:11 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[03-May-2013 12:04:11 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 162
+[04-May-2013 13:37:30 America/Denver] PHP Notice:  Undefined index: visitorLanguage in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 55
+[04-May-2013 13:37:30 America/Denver] PHP Notice:  Undefined index: lang in /home3/iglesij1/projects/portfolio/translator/SiteTranslator.php on line 59
+[04-May-2013 13:37:30 America/Denver] PHP Notice:  Undefined index: original_url in /home3/iglesij1/projects/portfolio/header.php on line 165
